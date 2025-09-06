@@ -1,7 +1,7 @@
 # 🌐 Antonio De Oliveira Segura
 
-**Computer Engineering @ Purdue University (Indianapolis)**  
-UGTA • Researcher • Builder • Quant Curious  
+**Computer Engineering @ Purdue University **  
+Researcher • Developer • Quant Curious  
 
 ---
 
