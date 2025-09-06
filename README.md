@@ -1,4 +1,4 @@
-# 💫 About Me:
+#👋 Hi, I'm Magdeline!
 <br>Computer Engineering @ Purdue University  <br>Researcher • Developer • Quant Curious  <br><br>---<br><br>## 🚀 About Me<br>- 🎓 Sophomore Computer Engineering + Finance (dual-major track)  <br>- 🔬 Undergraduate Researcher in Yoshida Lab — bioelectronics, cyclic voltammetry, and EIS  <br>- 📊 Interested in **quantitative trading, backend systems, and sustainable tech**  <br>- 🌍 Built projects ranging from **sustainability browser extensions** to **voice-controlled Twitch bots**  <br>- 🛠 Currently building:  <br>  - 📸 Panini Sticker OCR App  <br>  - 🎵 Spotify Listening Pattern Analyzer  <br>  - 🌱 Sustainability API & Chrome Extension  
 
 
