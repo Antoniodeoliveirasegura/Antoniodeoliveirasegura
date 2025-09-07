@@ -10,10 +10,6 @@ Researcher • Developer • Quant Curious
 - 🔬 Undergraduate Researcher in Yoshida Lab — bioelectronics, cyclic voltammetry, and EIS  
 - 📊 Interested in **quantitative trading, backend systems, and sustainable tech**  
 - 🌍 Built projects ranging from **sustainability browser extensions** to **voice-controlled Twitch bots**  
-- 🛠 Currently building:  
-  - 📸 Panini Sticker OCR App  
-  - 🎵 Spotify Listening Pattern Analyzer  
-  - 🌱 Sustainability API & Chrome Extension  
 
 ---
 
