@@ -6,7 +6,7 @@ Researcher • Developer • Quant Curious
 ---
 
 ## 🚀 About Me
-- 🎓 Sophomore Computer Engineering + Finance (dual-major track)  
+- 🎓 Sophomore Computer Engineering
 - 🔬 Undergraduate Researcher in Yoshida Lab — bioelectronics, cyclic voltammetry, and EIS  
 - 📊 Interested in **quantitative trading, backend systems, and sustainable tech**  
 - 🌍 Built projects ranging from **sustainability browser extensions** to **voice-controlled Twitch bots**  
