@@ -77,9 +77,9 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Antoniodeoliveirasegura&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Antoniodeoliveirasegura&theme=dark&hide_border=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniodeoliveirasegura&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniodeoliveirasegura&theme=dark&hide_border=true&layout=compact)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Antoniodeoliveirasegura&theme=dark&hide_border=true)
 
