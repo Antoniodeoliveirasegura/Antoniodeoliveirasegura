@@ -62,12 +62,30 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 
 ## Featured Projects
 
+**Full-Stack & Web**
+
 | Project | Description |
 |---|---|
+| 🏫 [hackindy](https://github.com/Antoniodeoliveirasegura/hackindy) | Full-stack Purdue campus dashboard — dining, transit, calendar, and events (React + Supabase) |
+| 🩺 [AlternativeMedicine](https://github.com/Antoniodeoliveirasegura/AlternativeMedicine) | API/platform for finding cheaper and safer drug alternatives |
 | 🌱 [sustainabilityExtension](https://github.com/Antoniodeoliveirasegura/sustainabilityExtension) | Chrome extension that shows live sustainability ratings from Good On You |
 | 🔗 [sustainability-api](https://github.com/Antoniodeoliveirasegura/sustainability-api) | Flask API powering sustainable brand ratings |
+| 🌐 [bysegura.com](https://bysegura.com) | Personal portfolio site |
+
+**Machine Learning & Sports Analytics**
+
+| Project | Description |
+|---|---|
+| ⚽ [epl-predict](https://github.com/Antoniodeoliveirasegura/epl-predict) | EPL match outcome predictions using a neural network + Elo ratings + Poisson models |
+| 🇧🇷 [brasileirao](https://github.com/Antoniodeoliveirasegura/brasileirao) | Brasileirão match predictions using Elo and Poisson distribution (2003–present) |
+| 🏟️ [footballData](https://github.com/Antoniodeoliveirasegura/footballData) | Premier League season outcome classifier using Gradient Boosting and team match stats |
+| 🇺🇸 [mls-predict](https://github.com/Antoniodeoliveirasegura/mls-predict) | MLS 2025 data scraper (FotMob) + player stats and match prediction |
+
+**Mobile & Bots**
+
+| Project | Description |
+|---|---|
+| 📱 [StickerScanner](https://github.com/Antoniodeoliveirasegura/StickerScanner) | iOS app for scanning and tracking sticker collections, built with SwiftUI + AVFoundation |
 | 🎵 [Spotify-Listening-Pattern-Analyzer](https://github.com/Antoniodeoliveirasegura/Spotify-Listening-Pattern-Analyzer) | Analyzes Spotify history to surface patterns, genres, and listening habits |
 | 🎮 [twitch-voice-modbot](https://github.com/Antoniodeoliveirasegura/twitch-voice-modbot) | Voice-controlled Twitch modbot that updates Nightbot's blacklist via speech recognition |
-| 🩺 [AlternativeMedicine](https://github.com/Antoniodeoliveirasegura/AlternativeMedicine) | API/platform for finding cheaper and safer drug alternatives |
-| 🌐 [bysegura.com](https://bysegura.com) | Personal portfolio site |
 
