@@ -7,7 +7,6 @@
 TA · Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniodeoliveirasegura)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/antonio.seg12)
 [![Portfolio](https://img.shields.io/badge/bysegura.com-222222?style=flat-square&logo=firefox&logoColor=white)](https://bysegura.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:antoniodeoliveirasegura@gmail.com)
 
