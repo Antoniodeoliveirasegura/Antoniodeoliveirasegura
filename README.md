@@ -16,7 +16,6 @@ TA · Researcher
 
 Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on experience in data science, IoT research, and engineering education.
 
-- **Undergraduate TA** for ENGR 13300 at Purdue, supporting programming and engineering fundamentals
 - Former **Data Science Researcher** at The Data Mine, analyzed transmission telematics data using Python and pandas
 - Selected as **1 of 2,000 from 14,000+ applicants** for the Goldman Sachs Engineering Possibilities Summit
 - Researched **solar, thermal, and RF energy harvesting** for IoT security devices with VIP Allegion
