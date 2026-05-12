@@ -16,8 +16,8 @@ TA · Researcher
 
 Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on experience in data science, IoT research, and engineering education.
 
-- **Undergraduate TA** for ENGR 13300 at Purdue — supporting programming and engineering fundamentals
-- Former **Data Science Researcher** at The Data Mine — analyzed transmission telematics data using Python and pandas
+- **Undergraduate TA** for ENGR 13300 at Purdue, supporting programming and engineering fundamentals
+- Former **Data Science Researcher** at The Data Mine, analyzed transmission telematics data using Python and pandas
 - Selected as **1 of 2,000 from 14,000+ applicants** for the Goldman Sachs Engineering Possibilities Summit
 - Researched **solar, thermal, and RF energy harvesting** for IoT security devices with VIP Allegion
 - Built a **Pinterest brand account** to 1.6M+ impressions through SEO and content strategy
@@ -63,7 +63,7 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 
 | Project | Description |
 |---|---|
-| 🏫 [hackindy](https://github.com/Antoniodeoliveirasegura/hackindy) | Full-stack Purdue campus dashboard — dining, transit, calendar, and events (React + Supabase) |
+| 🏫 [hackindy](https://github.com/Antoniodeoliveirasegura/hackindy) | Full-stack Purdue campus dashboard, dining, transit, calendar, and events (React + Supabase) |
 | 🩺 [AlternativeMedicine](https://github.com/Antoniodeoliveirasegura/AlternativeMedicine) | API/platform for finding cheaper and safer drug alternatives |
 | 🌱 [sustainabilityExtension](https://github.com/Antoniodeoliveirasegura/sustainabilityExtension) | Chrome extension that shows live sustainability ratings from Good On You |
 | 🔗 [sustainability-api](https://github.com/Antoniodeoliveirasegura/sustainability-api) | Flask API powering sustainable brand ratings |
@@ -85,5 +85,5 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 | 📱 [StickerScanner](https://github.com/Antoniodeoliveirasegura/StickerScanner) | iOS app for scanning and tracking sticker collections, built with SwiftUI + AVFoundation |
 | 🎵 [Spotify-Listening-Pattern-Analyzer](https://github.com/Antoniodeoliveirasegura/Spotify-Listening-Pattern-Analyzer) | Analyzes Spotify history to surface patterns, genres, and listening habits |
 | 🎮 [twitch-voice-modbot](https://github.com/Antoniodeoliveirasegura/twitch-voice-modbot) | Voice-controlled Twitch modbot that updates Nightbot's blacklist via speech recognition |
-| 🌤️ [miami_notes_test_app](https://github.com/Antoniodeoliveirasegura/miami_notes_test_app) | Flutter notes app with live Miami weather — dynamic weather card, weather-stamped notes, local persistence (Flutter + Dart + OpenWeatherMap) |
+| 🌤️ [miami_notes_test_app](https://github.com/Antoniodeoliveirasegura/miami_notes_test_app) | Flutter notes app with live Miami weather, dynamic weather card, weather-stamped notes, local persistence (Flutter + Dart + OpenWeatherMap) |
 
