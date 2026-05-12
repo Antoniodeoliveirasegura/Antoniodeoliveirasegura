@@ -12,8 +12,6 @@ TA · Researcher
 
 </div>
 
----
-
 ## About Me
 
 Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on experience in data science, IoT research, and engineering education.
@@ -24,8 +22,6 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 - Researched **solar, thermal, and RF energy harvesting** for IoT security devices with VIP Allegion
 - Built a **Pinterest brand account** to 1.6M+ impressions through SEO and content strategy
 - Interested in **quantitative finance, backend systems, and fintech**
-
----
 
 ## Tech Stack
 
@@ -60,8 +56,6 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23F9A825.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-%23199BD7.svg?style=for-the-badge&logo=onshape&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
 
 ## Featured Projects
 
