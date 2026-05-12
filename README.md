@@ -37,6 +37,11 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**Mobile Frameworks**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -86,4 +91,5 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 | 📱 [StickerScanner](https://github.com/Antoniodeoliveirasegura/StickerScanner) | iOS app for scanning and tracking sticker collections, built with SwiftUI + AVFoundation |
 | 🎵 [Spotify-Listening-Pattern-Analyzer](https://github.com/Antoniodeoliveirasegura/Spotify-Listening-Pattern-Analyzer) | Analyzes Spotify history to surface patterns, genres, and listening habits |
 | 🎮 [twitch-voice-modbot](https://github.com/Antoniodeoliveirasegura/twitch-voice-modbot) | Voice-controlled Twitch modbot that updates Nightbot's blacklist via speech recognition |
+| 🌤️ [miami_notes_test_app](https://github.com/Antoniodeoliveirasegura/miami_notes_test_app) | Flutter notes app with live Miami weather — dynamic weather card, weather-stamped notes, local persistence (Flutter + Dart + OpenWeatherMap) |
 
