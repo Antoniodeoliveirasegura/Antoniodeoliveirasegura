@@ -85,5 +85,5 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 | 📱 [StickerScanner](https://github.com/Antoniodeoliveirasegura/StickerScanner) | iOS app for scanning and tracking sticker collections, built with SwiftUI + AVFoundation |
 | 🎵 [Spotify-Listening-Pattern-Analyzer](https://github.com/Antoniodeoliveirasegura/Spotify-Listening-Pattern-Analyzer) | Analyzes Spotify history to surface patterns, genres, and listening habits |
 | 🎮 [twitch-voice-modbot](https://github.com/Antoniodeoliveirasegura/twitch-voice-modbot) | Voice-controlled Twitch modbot that updates Nightbot's blacklist via speech recognition |
-| 🌤️ [miami_notes_test_app](https://github.com/Antoniodeoliveirasegura/miami_notes_test_app) | Flutter notes app with live Miami weather, dynamic weather card, weather-stamped notes, local persistence (Flutter + Dart + OpenWeatherMap) |
+| 💳 [Fintech-AI-Assistant](https://github.com/Antoniodeoliveirasegura/Fintech-AI-Assistant) | Mobile-first Flutter fintech dashboard with mock auth, protected routing, loan summary, payment history, live activity stream, and a local AI assistant (Flutter + Dart + Riverpod + GoRouter) |
 
