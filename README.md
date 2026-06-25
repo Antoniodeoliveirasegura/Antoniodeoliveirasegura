@@ -63,16 +63,18 @@ Sophomore Computer Engineering student at Purdue (2024–2028) with hands-on exp
 
 | Project | Description |
 |---|---|
-| 🏫 [hackindy](https://github.com/Antoniodeoliveirasegura/hackindy) | Full-stack Purdue campus dashboard, dining, transit, calendar, and events (React + Supabase) |
+| 🧠 [Vira](https://github.com/Antoniodeoliveirasegura/Vira) | Capture-first productivity app, Claude auto-classifies quick notes into tasks, ideas, and reminders, with Google Calendar sync and an AI day planner (Next.js + TypeScript + Supabase + Claude) |
+| 🏫 [boilerindy](https://github.com/Antoniodeoliveirasegura/boilerindy) | Full-stack campus services app for Purdue Indianapolis, schedules, dining, transit, community board, and an AI campus assistant (React + Vite + Node/Express + Supabase) |
 | 🩺 [AlternativeMedicine](https://github.com/Antoniodeoliveirasegura/AlternativeMedicine) | API/platform for finding cheaper and safer drug alternatives |
 | 🌱 [sustainabilityExtension](https://github.com/Antoniodeoliveirasegura/sustainabilityExtension) | Chrome extension that shows live sustainability ratings from Good On You |
 | 🔗 [sustainability-api](https://github.com/Antoniodeoliveirasegura/sustainability-api) | Flask API powering sustainable brand ratings |
-| 🌐 [bysegura.com](https://bysegura.com) | Personal portfolio site |
+| 🌐 [bysegura.com](https://bysegura.com) | Personal portfolio site, no-build HTML/CSS/JS with animated canvas, theme toggle, and live Twitch status ([source](https://github.com/Antoniodeoliveirasegura/bysegura-site)) |
 
 **Machine Learning & Sports Analytics**
 
 | Project | Description |
 |---|---|
+| 🏆 [wc2026](https://github.com/Antoniodeoliveirasegura/wc2026) | Statistical 2026 World Cup forecast, Dixon-Coles scoreline model + Elo + Monte-Carlo tournament simulator (bookmaker-comparable accuracy) |
 | ⚽ [epl-predict](https://github.com/Antoniodeoliveirasegura/epl-predict) | EPL match outcome predictions using a neural network + Elo ratings + Poisson models |
 | 🇧🇷 [brasileirao](https://github.com/Antoniodeoliveirasegura/brasileirao) | Brasileirão match predictions using Elo and Poisson distribution (2003–present) |
 | 🏟️ [footballData](https://github.com/Antoniodeoliveirasegura/footballData) | Premier League season outcome classifier using Gradient Boosting and team match stats |
